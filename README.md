@@ -39,3 +39,4 @@ npm run server
 ### 4️⃣ Run the app
 npm run dev
 
+***The design is purely for showcase purposes – don’t mind the styling! :)***
