@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "stefan@gmail.com",
+      "password": "$2a$10$fZEWxnknUFdiu7z8NrQm8.jm9lV4SLFmMKlpSuK2rW3RpNgkIYOT6",
+      "id": 1
+    }
+  ],
+  "friends": [
+    {
+      "name": "Carlie",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "name": "Demetrius",
+      "userId": 1,
+      "id": 17
+    }
+  ]
+}
